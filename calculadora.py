@@ -1,6 +1,7 @@
 def sumar(a, b):
     return a + b
 
+#comentario
 
 def dividir(a, b):
     if b == 0:
